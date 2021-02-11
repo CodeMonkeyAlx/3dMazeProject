@@ -3,4 +3,4 @@
  A gamedev.tv project.
  Alex Kollar(@codemonkeyalx)
 
-Final version will be hosted on Itch.io will provide link when done.
+Game can be found here: https://alexkollar.itch.io/3dmaze
